@@ -19,8 +19,8 @@ A=([[5,-3,-10],[2,2,-3],[-3,-1,5]])
 rank=np.linalg.matrix_rank(A)
 print(rank)
 ```
-## Output:!
-[OUTPUT](<Screenshot 2023-12-18 173613.png>)
+## Output:
+![OUTPUT](<Screenshot 2023-12-18 173613.png>)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
